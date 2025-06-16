@@ -1,0 +1,29 @@
+# 🐧 Penguin Clustering Project
+
+This project applies unsupervised machine learning to cluster penguin species using the Palmer Penguins dataset.
+
+## 📊 Features Used
+- Bill length (mm)
+- Bill depth (mm)
+- Flipper length (mm)
+- Body mass (g)
+
+## 🧠 Techniques
+- StandardScaler for feature scaling
+- K-Means clustering (k=3)
+- PCA for 2D visualization
+- Silhouette Score: **0.498**
+
+## 🛠 Tools
+- Python, pandas, seaborn, scikit-learn, matplotlib
+
+## 📁 Structure
+notebooks/
+├── penguin_clustering.ipynb
+images/
+├── cluster_plot.png
+README.md
+
+
+## ✍️ Author
+Harshith Murthy
